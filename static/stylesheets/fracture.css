@@ -1,0 +1,32 @@
+html, body{
+
+font-family:"Baskerville"; font-weight: lighter;
+letter-spacing:1px;
+ 
+  font-size:14px;
+  color:#aaa;
+  min-width:1000px;
+  min-height:600px;
+}
+#title{
+    padding:10px;
+    font-size:25px;
+}
+#map{
+	position:absolute;
+    left:0px;
+    top:50px;
+    border:1px solid black;
+    width:600px;
+    height:600px;
+    margin:10px;
+}
+#streetview{
+	position:absolute;
+    left:610px;
+    top:50px;
+    border:1px solid black;
+    width:400px;
+    height:400px;    
+    margin:10px;
+}
